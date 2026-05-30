@@ -2,7 +2,7 @@
 
 ```bash
 git clone https://github.com/Sharif-Garcia/JWT.git
-cd JWT
+cd jwt-auth-demo
 npm install
 ```
 
